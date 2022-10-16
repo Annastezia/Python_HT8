@@ -1,0 +1,12 @@
+00:15;'\Search.. '\;пожарный;False
+00:19;'\Search.. '\;полицейский;False
+00:20;'\Search.. '\;Елена;True
+00:32;'\Search.. '\;Александр;True
+00:35;'\Added to catalog:'\;{'name': 'Макар', 'number': '83496789104', 'work': 'программист'}
+00:41;'\Added to catalog:'\;{'name': 'Иван', 'number': '85673953102', 'work': 'учитель'}
+00:46;'\Added to catalog:'\;{'name': 'Валерия', 'number': '8974782406', 'work': 'продавец'}
+00:50;'\Added to catalog:'\;<zip object at 0x0000022B215B7980>
+01:10;'\Added to catalog:'\;<zip object at 0x000001DD44927980>
+01:21;'\Added to catalog:'\;{'name': 'Сергей', 'number': '89385602435', 'work': 'банковский сотрудник'}
+01:29;'\Added to catalog:'\;['Ольга', '82231678034', 'бухгалтер']
+01:30;'\Added to catalog:'\;['Александр', '89489541560', 'тренер']
